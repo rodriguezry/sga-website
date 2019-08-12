@@ -1,0 +1,19 @@
+.active {
+  color: #c20113;
+}
+
+.suggest-header {
+  font-size: 4rem;
+}
+
+.links {
+  color: white;
+}
+
+footer {
+  color: white;
+}
+
+#current {
+  color: #c20113;
+}

@@ -1,0 +1,28 @@
+.active {
+  color: #c20113;
+}
+
+.jumbotron {
+  background: url(https://i.imgur.com/xxV9E9k.jpg);
+  height: 772px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* display: flex; */
+  font-family: 'Lalezar', cursive;
+}
+
+.jumbotronMain {
+  color: #ff1100;
+}
+
+.suggest-header {
+  font-size: 4rem;
+}
+
+.links {
+  color: white;
+}
+
+footer {
+  color: white;
+}
